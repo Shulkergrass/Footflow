@@ -1,0 +1,21 @@
+--------------------------------------------
+public Comment on Path
+Comment type: Feedback
+
+Can we have some bins please, there is a lot of litter
+--------------------------------------------
+
+--------------------------------------------
+private Comment on Lake
+Comment type: Suggestion
+
+Can we have a path to the lake so I don't get muddy when I'm walking my dog
+--------------------------------------------
+
+--------------------------------------------
+private Comment on Woods
+Comment type: Suggestion
+
+We need some picnic benches here! there's loads of people with picnic blankets all through the summer and its a nice spot!
+--------------------------------------------
+
